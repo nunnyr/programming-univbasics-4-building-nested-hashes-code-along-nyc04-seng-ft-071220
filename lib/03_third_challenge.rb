@@ -31,13 +31,13 @@ def third_challenge
         status: "alive"
         },
       :heroine_friends => [
-        :name: "Benvolio",
-        :age: "17",
-        :attitude: "worried",
+        name: "Benvolio",
+        age: "17",
+        attitude: "worried",
         
-        :name: "Mercutio",
-        :age: "18",
-        :attitude: "hot-headed"
+        name: "Mercutio",
+        age: "18",
+        attitude: "hot-headed"
         ]
    }
   }
